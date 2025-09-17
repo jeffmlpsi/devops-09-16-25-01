@@ -3,3 +3,6 @@ drwxr-xr-x  4 jeff  staff  128 Sep 16 19:22 .
 drwxr-xr-x@ 3 jeff  staff   96 Sep 16 19:22 ..
 drwxr-xr-x  9 jeff  staff  288 Sep 16 19:22 .git
 -rw-r--r--  1 jeff  staff    0 Sep 16 19:22 z.txt
+--
+cats do not like computers
+
