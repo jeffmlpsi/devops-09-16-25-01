@@ -1,0 +1,8 @@
+total 32
+drwxr-xr-x   7 jeff  staff    224 Sep 16 19:25 .
+drwxr-xr-x   7 jeff  staff    224 Sep 16 19:25 ..
+-rw-r--r--@  1 jeff  staff  12292 Sep 16 19:10 .DS_Store
+drwxr-xr-x@ 19 jeff  staff    608 Jun  8 19:51 code
+drwxr-xr-x@  3 jeff  staff     96 Sep 16 19:25 in-class
+drwxr-xr-x@  4 jeff  staff    128 May 14 19:11 keypairs
+drwxr-xr-x@ 42 jeff  staff   1344 Sep 16 19:01 notes
